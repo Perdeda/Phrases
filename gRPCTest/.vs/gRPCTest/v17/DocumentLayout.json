@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Repos\\WEB\\gRPCTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC145EE-456D-4D16-A189-5B04CA01D79B}|gRPCTest\\gRPCTest.csproj|e:\\repos\\web\\grpctest\\grpctest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC145EE-456D-4D16-A189-5B04CA01D79B}|gRPCTest\\gRPCTest.csproj|solutionrelative:grpctest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC145EE-456D-4D16-A189-5B04CA01D79B}|gRPCTest\\gRPCTest.csproj|e:\\repos\\web\\grpctest\\grpctest\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC145EE-456D-4D16-A189-5B04CA01D79B}|gRPCTest\\gRPCTest.csproj|solutionrelative:grpctest\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC145EE-456D-4D16-A189-5B04CA01D79B}|gRPCTest\\gRPCTest.csproj|e:\\repos\\web\\grpctest\\grpctest\\mongo\\phrasedescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC145EE-456D-4D16-A189-5B04CA01D79B}|gRPCTest\\gRPCTest.csproj|solutionrelative:grpctest\\mongo\\phrasedescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC145EE-456D-4D16-A189-5B04CA01D79B}|gRPCTest\\gRPCTest.csproj|e:\\repos\\web\\grpctest\\grpctest\\mongo\\mongoactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC145EE-456D-4D16-A189-5B04CA01D79B}|gRPCTest\\gRPCTest.csproj|solutionrelative:grpctest\\mongo\\mongoactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC145EE-456D-4D16-A189-5B04CA01D79B}|gRPCTest\\gRPCTest.csproj|e:\\repos\\web\\grpctest\\grpctest\\ef\\phraseef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC145EE-456D-4D16-A189-5B04CA01D79B}|gRPCTest\\gRPCTest.csproj|solutionrelative:grpctest\\ef\\phraseef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC145EE-456D-4D16-A189-5B04CA01D79B}|gRPCTest\\gRPCTest.csproj|e:\\repos\\web\\grpctest\\grpctest\\ef\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC145EE-456D-4D16-A189-5B04CA01D79B}|gRPCTest\\gRPCTest.csproj|solutionrelative:grpctest\\ef\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC145EE-456D-4D16-A189-5B04CA01D79B}|gRPCTest\\gRPCTest.csproj|e:\\repos\\web\\grpctest\\grpctest\\ef\\dbactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC145EE-456D-4D16-A189-5B04CA01D79B}|gRPCTest\\gRPCTest.csproj|solutionrelative:grpctest\\ef\\dbactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC145EE-456D-4D16-A189-5B04CA01D79B}|gRPCTest\\gRPCTest.csproj|e:\\repos\\web\\grpctest\\grpctest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9BC145EE-456D-4D16-A189-5B04CA01D79B}|gRPCTest\\gRPCTest.csproj|solutionrelative:grpctest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC145EE-456D-4D16-A189-5B04CA01D79B}|gRPCTest\\gRPCTest.csproj|e:\\repos\\web\\grpctest\\grpctest\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9BC145EE-456D-4D16-A189-5B04CA01D79B}|gRPCTest\\gRPCTest.csproj|solutionrelative:grpctest\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC145EE-456D-4D16-A189-5B04CA01D79B}|gRPCTest\\gRPCTest.csproj|e:\\repos\\web\\grpctest\\grpctest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9BC145EE-456D-4D16-A189-5B04CA01D79B}|gRPCTest\\gRPCTest.csproj|solutionrelative:grpctest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PhraseDescription.cs",
+              "DocumentMoniker": "E:\\Repos\\WEB\\gRPCTest\\gRPCTest\\Mongo\\PhraseDescription.cs",
+              "RelativeDocumentMoniker": "gRPCTest\\Mongo\\PhraseDescription.cs",
+              "ToolTip": "E:\\Repos\\WEB\\gRPCTest\\gRPCTest\\Mongo\\PhraseDescription.cs",
+              "RelativeToolTip": "gRPCTest\\Mongo\\PhraseDescription.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T13:30:17.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PhraseEF.cs",
+              "DocumentMoniker": "E:\\Repos\\WEB\\gRPCTest\\gRPCTest\\EF\\PhraseEF.cs",
+              "RelativeDocumentMoniker": "gRPCTest\\EF\\PhraseEF.cs",
+              "ToolTip": "E:\\Repos\\WEB\\gRPCTest\\gRPCTest\\EF\\PhraseEF.cs",
+              "RelativeToolTip": "gRPCTest\\EF\\PhraseEF.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T13:27:00.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MongoActions.cs",
+              "DocumentMoniker": "E:\\Repos\\WEB\\gRPCTest\\gRPCTest\\Mongo\\MongoActions.cs",
+              "RelativeDocumentMoniker": "gRPCTest\\Mongo\\MongoActions.cs",
+              "ToolTip": "E:\\Repos\\WEB\\gRPCTest\\gRPCTest\\Mongo\\MongoActions.cs",
+              "RelativeToolTip": "gRPCTest\\Mongo\\MongoActions.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwDYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T03:23:56.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Repos\\WEB\\gRPCTest\\gRPCTest\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "gRPCTest\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Repos\\WEB\\gRPCTest\\gRPCTest\\Properties\\launchSettings.json",
+              "RelativeToolTip": "gRPCTest\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-20T16:36:18.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GreeterService.cs",
+              "DocumentMoniker": "E:\\Repos\\WEB\\gRPCTest\\gRPCTest\\Services\\GreeterService.cs",
+              "RelativeDocumentMoniker": "gRPCTest\\Services\\GreeterService.cs",
+              "ToolTip": "E:\\Repos\\WEB\\gRPCTest\\gRPCTest\\Services\\GreeterService.cs",
+              "RelativeToolTip": "gRPCTest\\Services\\GreeterService.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAIwDUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T15:30:54.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DbActions.cs",
+              "DocumentMoniker": "E:\\Repos\\WEB\\gRPCTest\\gRPCTest\\EF\\DbActions.cs",
+              "RelativeDocumentMoniker": "gRPCTest\\EF\\DbActions.cs",
+              "ToolTip": "E:\\Repos\\WEB\\gRPCTest\\gRPCTest\\EF\\DbActions.cs",
+              "RelativeToolTip": "gRPCTest\\EF\\DbActions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T14:56:10.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppContext.cs",
+              "DocumentMoniker": "E:\\Repos\\WEB\\gRPCTest\\gRPCTest\\EF\\AppContext.cs",
+              "RelativeDocumentMoniker": "gRPCTest\\EF\\AppContext.cs",
+              "ToolTip": "E:\\Repos\\WEB\\gRPCTest\\gRPCTest\\EF\\AppContext.cs",
+              "RelativeToolTip": "gRPCTest\\EF\\AppContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T14:45:21.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Repos\\WEB\\gRPCTest\\gRPCTest\\appsettings.json",
+              "RelativeDocumentMoniker": "gRPCTest\\appsettings.json",
+              "ToolTip": "E:\\Repos\\WEB\\gRPCTest\\gRPCTest\\appsettings.json",
+              "RelativeToolTip": "gRPCTest\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-08T13:45:30.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "greet.proto",
+              "DocumentMoniker": "E:\\Repos\\WEB\\gRPCTest\\gRPCTest\\Protos\\greet.proto",
+              "RelativeDocumentMoniker": "gRPCTest\\Protos\\greet.proto",
+              "ToolTip": "E:\\Repos\\WEB\\gRPCTest\\gRPCTest\\Protos\\greet.proto",
+              "RelativeToolTip": "gRPCTest\\Protos\\greet.proto",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-04-08T05:43:55.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Repos\\WEB\\gRPCTest\\gRPCTest\\Program.cs",
+              "RelativeDocumentMoniker": "gRPCTest\\Program.cs",
+              "ToolTip": "E:\\Repos\\WEB\\gRPCTest\\gRPCTest\\Program.cs",
+              "RelativeToolTip": "gRPCTest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T05:26:36.733Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

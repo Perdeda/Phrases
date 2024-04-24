@@ -1,0 +1,37 @@
+syntax = "proto3";
+
+option csharp_namespace = "gRPCGreet";
+
+package greet;
+
+// The greeting service definition.
+service PhraseService {
+
+  // Sends a greeting
+  rpc GetPhrases(PhrasesRequest) returns (PhrasesResponce);
+  rpc GetSpecificPhrase(PhraseRequest) returns (Phrase);
+  rpc AddPhrase(Phrase) returns (Phrase);
+  rpc SayHello (HelloRequest) returns (HelloReply);
+}
+
+message HelloRequest {
+  string name = 1;
+}
+// The response message containing the greetings.
+message HelloReply {
+  string message = 1;
+}
+message Phrase{
+	optional int32 id = 1;
+	string strPhrase = 2;
+	optional string description = 3;
+}
+message PhraseRequest{
+	int32 id = 1;
+}
+message PhrasesRequest{
+
+}
+message PhrasesResponce{
+	repeated Phrase phrases = 1;
+}

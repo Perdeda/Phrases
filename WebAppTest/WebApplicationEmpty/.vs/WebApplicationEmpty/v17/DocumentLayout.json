@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Repos\\WEB\\WebAppTest\\WebApplicationEmpty\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E7BA89-8FBC-44E0-A15E-011D44B4C373}|WebApplicationEmpty\\WebApplicationEmpty.csproj|e:\\repos\\web\\webapptest\\webapplicationempty\\webapplicationempty\\grpcclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E7BA89-8FBC-44E0-A15E-011D44B4C373}|WebApplicationEmpty\\WebApplicationEmpty.csproj|solutionrelative:webapplicationempty\\grpcclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E7BA89-8FBC-44E0-A15E-011D44B4C373}|WebApplicationEmpty\\WebApplicationEmpty.csproj|e:\\repos\\web\\webapptest\\webapplicationempty\\webapplicationempty\\map\\appmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E7BA89-8FBC-44E0-A15E-011D44B4C373}|WebApplicationEmpty\\WebApplicationEmpty.csproj|solutionrelative:webapplicationempty\\map\\appmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E7BA89-8FBC-44E0-A15E-011D44B4C373}|WebApplicationEmpty\\WebApplicationEmpty.csproj|e:\\repos\\web\\webapptest\\webapplicationempty\\webapplicationempty\\map\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E7BA89-8FBC-44E0-A15E-011D44B4C373}|WebApplicationEmpty\\WebApplicationEmpty.csproj|solutionrelative:webapplicationempty\\map\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E7BA89-8FBC-44E0-A15E-011D44B4C373}|WebApplicationEmpty\\WebApplicationEmpty.csproj|e:\\repos\\web\\webapptest\\webapplicationempty\\webapplicationempty\\map\\phrasesmapgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E7BA89-8FBC-44E0-A15E-011D44B4C373}|WebApplicationEmpty\\WebApplicationEmpty.csproj|solutionrelative:webapplicationempty\\map\\phrasesmapgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E7BA89-8FBC-44E0-A15E-011D44B4C373}|WebApplicationEmpty\\WebApplicationEmpty.csproj|e:\\repos\\web\\webapptest\\webapplicationempty\\webapplicationempty\\dbactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E7BA89-8FBC-44E0-A15E-011D44B4C373}|WebApplicationEmpty\\WebApplicationEmpty.csproj|solutionrelative:webapplicationempty\\dbactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E7BA89-8FBC-44E0-A15E-011D44B4C373}|WebApplicationEmpty\\WebApplicationEmpty.csproj|e:\\repos\\web\\webapptest\\webapplicationempty\\webapplicationempty\\phrase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E7BA89-8FBC-44E0-A15E-011D44B4C373}|WebApplicationEmpty\\WebApplicationEmpty.csproj|solutionrelative:webapplicationempty\\phrase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E7BA89-8FBC-44E0-A15E-011D44B4C373}|WebApplicationEmpty\\WebApplicationEmpty.csproj|e:\\repos\\web\\webapptest\\webapplicationempty\\webapplicationempty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E7BA89-8FBC-44E0-A15E-011D44B4C373}|WebApplicationEmpty\\WebApplicationEmpty.csproj|solutionrelative:webapplicationempty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E7BA89-8FBC-44E0-A15E-011D44B4C373}|WebApplicationEmpty\\WebApplicationEmpty.csproj|e:\\repos\\web\\webapptest\\webapplicationempty\\webapplicationempty\\webapplicationempty.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A5E7BA89-8FBC-44E0-A15E-011D44B4C373}|WebApplicationEmpty\\WebApplicationEmpty.csproj|solutionrelative:webapplicationempty\\webapplicationempty.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E7BA89-8FBC-44E0-A15E-011D44B4C373}|WebApplicationEmpty\\WebApplicationEmpty.csproj|e:\\repos\\web\\webapptest\\webapplicationempty\\webapplicationempty\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A5E7BA89-8FBC-44E0-A15E-011D44B4C373}|WebApplicationEmpty\\WebApplicationEmpty.csproj|solutionrelative:webapplicationempty\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E7BA89-8FBC-44E0-A15E-011D44B4C373}|WebApplicationEmpty\\WebApplicationEmpty.csproj|e:\\repos\\web\\webapptest\\webapplicationempty\\webapplicationempty\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A5E7BA89-8FBC-44E0-A15E-011D44B4C373}|WebApplicationEmpty\\WebApplicationEmpty.csproj|solutionrelative:webapplicationempty\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E7BA89-8FBC-44E0-A15E-011D44B4C373}|WebApplicationEmpty\\WebApplicationEmpty.csproj|e:\\repos\\web\\webapptest\\webapplicationempty\\webapplicationempty\\html\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5E7BA89-8FBC-44E0-A15E-011D44B4C373}|WebApplicationEmpty\\WebApplicationEmpty.csproj|solutionrelative:webapplicationempty\\html\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Phrase.cs",
+              "DocumentMoniker": "E:\\Repos\\WEB\\WebAppTest\\WebApplicationEmpty\\WebApplicationEmpty\\Phrase.cs",
+              "RelativeDocumentMoniker": "WebApplicationEmpty\\Phrase.cs",
+              "ToolTip": "E:\\Repos\\WEB\\WebAppTest\\WebApplicationEmpty\\WebApplicationEmpty\\Phrase.cs",
+              "RelativeToolTip": "WebApplicationEmpty\\Phrase.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T13:28:25.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WebApplicationEmpty.csproj",
+              "DocumentMoniker": "E:\\Repos\\WEB\\WebAppTest\\WebApplicationEmpty\\WebApplicationEmpty\\WebApplicationEmpty.csproj",
+              "RelativeDocumentMoniker": "WebApplicationEmpty\\WebApplicationEmpty.csproj",
+              "ToolTip": "E:\\Repos\\WEB\\WebAppTest\\WebApplicationEmpty\\WebApplicationEmpty\\WebApplicationEmpty.csproj",
+              "RelativeToolTip": "WebApplicationEmpty\\WebApplicationEmpty.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-23T02:18:26.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "greet.proto",
+              "DocumentMoniker": "E:\\Repos\\WEB\\WebAppTest\\WebApplicationEmpty\\WebApplicationEmpty\\Protos\\greet.proto",
+              "RelativeDocumentMoniker": "WebApplicationEmpty\\Protos\\greet.proto",
+              "ToolTip": "E:\\Repos\\WEB\\WebAppTest\\WebApplicationEmpty\\WebApplicationEmpty\\Protos\\greet.proto",
+              "RelativeToolTip": "WebApplicationEmpty\\Protos\\greet.proto",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-04-22T17:20:44.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Repos\\WEB\\WebAppTest\\WebApplicationEmpty\\WebApplicationEmpty\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplicationEmpty\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Repos\\WEB\\WebAppTest\\WebApplicationEmpty\\WebApplicationEmpty\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplicationEmpty\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-20T16:28:44.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GrpcClient.cs",
+              "DocumentMoniker": "E:\\Repos\\WEB\\WebAppTest\\WebApplicationEmpty\\WebApplicationEmpty\\GrpcClient.cs",
+              "RelativeDocumentMoniker": "WebApplicationEmpty\\GrpcClient.cs",
+              "ToolTip": "E:\\Repos\\WEB\\WebAppTest\\WebApplicationEmpty\\WebApplicationEmpty\\GrpcClient.cs",
+              "RelativeToolTip": "WebApplicationEmpty\\GrpcClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T16:19:24.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbActions.cs",
+              "DocumentMoniker": "E:\\Repos\\WEB\\WebAppTest\\WebApplicationEmpty\\WebApplicationEmpty\\DbActions.cs",
+              "RelativeDocumentMoniker": "WebApplicationEmpty\\DbActions.cs",
+              "ToolTip": "E:\\Repos\\WEB\\WebAppTest\\WebApplicationEmpty\\WebApplicationEmpty\\DbActions.cs",
+              "RelativeToolTip": "WebApplicationEmpty\\DbActions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T15:13:48.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "E:\\Repos\\WEB\\WebAppTest\\WebApplicationEmpty\\WebApplicationEmpty\\Map\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "WebApplicationEmpty\\Map\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "E:\\Repos\\WEB\\WebAppTest\\WebApplicationEmpty\\WebApplicationEmpty\\Map\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "WebApplicationEmpty\\Map\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T17:05:53.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhrasesMapGroup.cs",
+              "DocumentMoniker": "E:\\Repos\\WEB\\WebAppTest\\WebApplicationEmpty\\WebApplicationEmpty\\Map\\PhrasesMapGroup.cs",
+              "RelativeDocumentMoniker": "WebApplicationEmpty\\Map\\PhrasesMapGroup.cs",
+              "ToolTip": "E:\\Repos\\WEB\\WebAppTest\\WebApplicationEmpty\\WebApplicationEmpty\\Map\\PhrasesMapGroup.cs",
+              "RelativeToolTip": "WebApplicationEmpty\\Map\\PhrasesMapGroup.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T15:58:08.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppMapping.cs",
+              "DocumentMoniker": "E:\\Repos\\WEB\\WebAppTest\\WebApplicationEmpty\\WebApplicationEmpty\\Map\\AppMapping.cs",
+              "RelativeDocumentMoniker": "WebApplicationEmpty\\Map\\AppMapping.cs",
+              "ToolTip": "E:\\Repos\\WEB\\WebAppTest\\WebApplicationEmpty\\WebApplicationEmpty\\Map\\AppMapping.cs",
+              "RelativeToolTip": "WebApplicationEmpty\\Map\\AppMapping.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T09:19:14.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Repos\\WEB\\WebAppTest\\WebApplicationEmpty\\WebApplicationEmpty\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplicationEmpty\\Program.cs",
+              "ToolTip": "E:\\Repos\\WEB\\WebAppTest\\WebApplicationEmpty\\WebApplicationEmpty\\Program.cs",
+              "RelativeToolTip": "WebApplicationEmpty\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T13:44:25.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "index.html",
+              "DocumentMoniker": "E:\\Repos\\WEB\\WebAppTest\\WebApplicationEmpty\\WebApplicationEmpty\\html\\index.html",
+              "RelativeDocumentMoniker": "WebApplicationEmpty\\html\\index.html",
+              "ToolTip": "E:\\Repos\\WEB\\WebAppTest\\WebApplicationEmpty\\WebApplicationEmpty\\html\\index.html",
+              "RelativeToolTip": "WebApplicationEmpty\\html\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-23T19:56:08.949Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
